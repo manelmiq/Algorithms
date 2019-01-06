@@ -13,17 +13,17 @@
     "input" : "3\n10\n20\n30\n",
     "output" : "YES\n",
     "index" : 0,
-    "active" : true
+    "active" : false
   }, {
     "input" : "3\n10\n10\n10\n",
     "output" : "NO\n",
     "index" : 1,
-    "active" : true
+    "active" : false
   }, {
     "input" : "3\n120\n120\n120\n",
     "output" : "YES\n",
     "index" : 2,
-    "active" : true
+    "active" : false
   }, {
     "input" : "15\n168\n168\n168\n168\n168\n168\n168\n168\n168\n168\n168\n168\n168\n168\n168\n",
     "index" : 3,

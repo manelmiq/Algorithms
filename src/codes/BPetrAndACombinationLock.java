@@ -9,25 +9,25 @@ public class BPetrAndACombinationLock {
         int sum = 0;
 
         ArrayList<Integer> possibities = new ArrayList<>();
-        for(int i = 0; i < n; i++ ){
+        for (int i = 0; i < n; i++) {
             int a = in.nextInt();
-            if(possibities.isEmpty()){
+            if (possibities.isEmpty()) {
                 possibities.add(a);
-            }else{
+            } else {
                 LinkedList<Integer> list = new LinkedList<>();
-                for(int j = 0; j < possibities.size(); j++){
+                for (int j = 0; j < possibities.size(); j++) {
                     Integer x = possibities.get(j);
-                    list.add(x - a);
-                    list.add(x + a);
+                    list.add((x - a) % 360);
+                    list.add((x + a) % 360);
                 }
 //                out.println(list);
                 possibities.clear();
                 possibities.addAll(list);
             }
         }
-        if(possibities.contains(0) || possibities.contains(360)){
+        if (possibities.contains(0) || possibities.contains(360)) {
             out.println("YES");
-        }else{
+        } else {
             out.println("NO");
         }
 
