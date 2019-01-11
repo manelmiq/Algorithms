@@ -1,2 +1,2 @@
-31 src/codes/C. Powers Of Two.json
+43 src/codes/A. Integer Sequence Dividing.json
 0
