@@ -1,2 +1,2 @@
-43 src/codes/A. Integer Sequence Dividing.json
+42 src/codes/B. Divisors of Two Integers.json
 0
