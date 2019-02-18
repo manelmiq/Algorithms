@@ -1,2 +1,2 @@
-42 src/codes/B. Divisors of Two Integers.json
+27 src/codes/TaskCodility.json
 0

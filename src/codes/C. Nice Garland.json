@@ -1,6 +1,6 @@
 {
-  "name" : "Task",
-  "testType" : "MULTI_NUMBER",
+  "name" : "C. Nice Garland",
+  "testType" : "SINGLE",
   "input" : {
     "type" : "STANDARD",
     "fileName" : "input.txt"
@@ -10,20 +10,25 @@
     "fileName" : "output.txt"
   },
   "tests" : [ {
-    "input" : "5 3\n3 8 9 7 6 ",
-    "output" : "9 7 6 3 8",
+    "input" : "3\nBRB\n",
+    "output" : "1\nGRB\n",
     "index" : 0,
+    "active" : true
+  }, {
+    "input" : "7\nRGBGRBB\n",
+    "output" : "3\nRGBRGBR\n",
+    "index" : 1,
     "active" : true
   } ],
   "location" : "src/codes",
-  "vmArgs" : "-Xmx256m -Xss64m",
+  "vmArgs" : "-Xmx256M",
   "mainClass" : "Main",
-  "taskClass" : "codes.Task",
+  "taskClass" : "codes.CNiceGarland",
   "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
   "checkerParameters" : "",
   "testClasses" : [ ],
-  "date" : "2019.02.17",
-  "contestName" : "",
+  "date" : "2019.02.08",
+  "contestName" : "Codeforces Round #535 (Div. 3)",
   "truncate" : true,
   "inputClass" : "java.util.Scanner",
   "outputClass" : "java.io.PrintWriter",

@@ -2,12 +2,7 @@ import java.io.OutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.PrintWriter;
-import java.util.Iterator;
-import java.util.Map;
-import java.util.Map.Entry;
 import java.util.Scanner;
-import java.util.Set;
-import java.util.HashMap;
 
 /**
  * Built using CHelper plug-in
@@ -21,41 +16,43 @@ public class Main {
         OutputStream outputStream = System.out;
         Scanner in = new Scanner(inputStream);
         PrintWriter out = new PrintWriter(outputStream);
-        BDivisorsOfTwoIntegers solver = new BDivisorsOfTwoIntegers();
+        TaskCodility solver = new TaskCodility();
         solver.solve(1, in, out);
         out.close();
     }
 
-    static class BDivisorsOfTwoIntegers {
+    static class TaskCodility {
         public void solve(int testNumber, Scanner in, PrintWriter out) {
             int n = in.nextInt();
-            HashMap<Integer, Integer> map = new HashMap<>();
-            Integer x = Integer.MIN_VALUE;
+            int k = in.nextInt();
+            int[] v = new int[n];
             for (int i = 0; i < n; i++) {
-                int a = in.nextInt();
-                Integer value = map.get(a);
-                if (value == null) {
-                    value = 1;
-                } else {
-                    value++;
-                }
-                map.put(a, value);
-                x = Math.max(a, x);
+                v[i] = in.nextInt();
             }
-            int y = Integer.MIN_VALUE;
-            for (int i = 1; i <= x; i++) {
-                if ((x % i) == 0) {
-                    map.put(i, map.get(i) - 1);
-                }
+            int t[] = solution(v, k);
+            for (int i = 0; i < t.length; i++) {
+                if (i > 0)
+                    out.print(" ");
+                out.print(t[i]);
             }
+        }
+
+        public int[] solution(int[] A, int K) {
+            if (A.length == 0) {
+                return new int[1];
+            }
+            if (K == 0) {
+                return A;
+            }
+            int sol[] = new int[A.length];
+            System.arraycopy(A, 0, sol, 0, A.length);
+            int searchPosition = A.length - (K % A.length);
+            int tam = A.length - searchPosition;
+            System.arraycopy(A, searchPosition, sol, 0, tam);
             int debug = 1;
-            Iterator it = map.entrySet().iterator();
-            for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-                if (entry.getValue().equals(1)) {
-                    y = Math.max(y, entry.getKey());
-                }
-            }
-            out.println(x + " " + y);
+            System.arraycopy(A, 0, sol, tam, searchPosition);
+            int debug2 = 1;
+            return sol;
         }
     }
 }
