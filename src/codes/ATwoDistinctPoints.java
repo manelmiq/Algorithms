@@ -14,12 +14,12 @@ public class ATwoDistinctPoints {
             l2 = in.nextInt();
             r2 = in.nextInt();
             a = Math.min(l1, l2);
-            if(a == l1){
+            if (a == l1) {
                 b = r2;
-                out.println(a + " "+ b );
-            }else{
+                out.println(a + " " + b);
+            } else {
                 b = r1;
-                out.println(b+ " "+ a );
+                out.println(b + " " + a);
             }
 
         }

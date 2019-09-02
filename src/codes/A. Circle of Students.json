@@ -1,5 +1,5 @@
 {
-  "name" : "Task",
+  "name" : "A. Circle of Students",
   "testType" : "SINGLE",
   "input" : {
     "type" : "STANDARD",
@@ -10,19 +10,20 @@
     "fileName" : "output.txt"
   },
   "tests" : [ {
-    "input" : "\n[5,6,1,6,7,3] ",
+    "input" : "5\n4\n1 2 3 4\n3\n1 3 2\n5\n1 2 3 5 4\n1\n1\n5\n3 2 1 5 4\n",
+    "output" : "YES\nYES\nNO\nYES\nYES\n",
     "index" : 0,
     "active" : true
   } ],
   "location" : "src/codes",
-  "vmArgs" : "-Xmx256m -Xss64m",
+  "vmArgs" : "-Xmx256M",
   "mainClass" : "Main",
-  "taskClass" : "codes.Task",
+  "taskClass" : "codes.ACircleOfStudents",
   "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
   "checkerParameters" : "",
   "testClasses" : [ ],
   "date" : "2019.08.27",
-  "contestName" : "",
+  "contestName" : "Codeforces Round #579 (Div. 3)",
   "truncate" : true,
   "inputClass" : "java.util.Scanner",
   "outputClass" : "java.io.PrintWriter",

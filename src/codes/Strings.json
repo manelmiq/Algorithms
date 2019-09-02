@@ -1,5 +1,5 @@
 {
-  "name" : "Task",
+  "name" : "Strings",
   "testType" : "SINGLE",
   "input" : {
     "type" : "STANDARD",
@@ -10,18 +10,39 @@
     "fileName" : "output.txt"
   },
   "tests" : [ {
-    "input" : "\n[5,6,1,6,7,3] ",
+    "input" : "1a2b3c",
+    "output" : "6",
     "index" : 0,
+    "active" : true
+  }, {
+    "input" : "dFD$#23+++12@#T1234;/.,10",
+    "output" : "1279",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "12a-10b",
+    "output" : "2",
+    "index" : 2,
+    "active" : true
+  }, {
+    "input" : "abcdef",
+    "output" : "0",
+    "index" : 3,
+    "active" : true
+  }, {
+    "input" : "0123.4",
+    "output" : "127",
+    "index" : 4,
     "active" : true
   } ],
   "location" : "src/codes",
   "vmArgs" : "-Xmx256m -Xss64m",
   "mainClass" : "Main",
-  "taskClass" : "codes.Task",
+  "taskClass" : "codes.Strings",
   "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
   "checkerParameters" : "",
   "testClasses" : [ ],
-  "date" : "2019.08.27",
+  "date" : "2019.08.19",
   "contestName" : "",
   "truncate" : true,
   "inputClass" : "java.util.Scanner",
