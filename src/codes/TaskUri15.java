@@ -34,7 +34,7 @@ public class TaskUri15 {
                 break;
             }
             debug_teste++;
-            if(debug_teste == 3){
+            if (debug_teste == 3) {
                 boolean t = true;
             }
             int begin, end;
@@ -44,13 +44,13 @@ public class TaskUri15 {
                 int time = 0;
 //                remove all the cars after add one new, if one stays longer you must print nao
                 while (!parking.isEmpty() && parking.getLast().end <= begin) {
-                      if (parking.getLast().end < time) {
+                    if (parking.getLast().end < time) {
                         ok = false;
                     }
                     time = parking.getLast().end;
                     parking.remove(parking.getLast());
                 }
-                if(parking.size() >= k ){
+                if (parking.size() >= k) {
                     ok = false;
                 }
                 parking.addLast(new Schedule(begin, end));

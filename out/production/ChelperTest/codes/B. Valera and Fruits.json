@@ -1,39 +1,42 @@
 {
-  "name" : "B. Valera and Fruits",
-  "testType" : "SINGLE",
-  "input" : {
-    "type" : "STANDARD",
-    "fileName" : "input.txt"
+  "name": "B. Valera and Fruits",
+  "testType": "SINGLE",
+  "input": {
+    "type": "STANDARD",
+    "fileName": "input.txt"
   },
-  "output" : {
-    "type" : "STANDARD",
-    "fileName" : "output.txt"
+  "output": {
+    "type": "STANDARD",
+    "fileName": "output.txt"
   },
-  "tests" : [ {
-    "input" : "2 3\n1 5\n2 3\n",
-    "output" : "8\n",
-    "index" : 0,
-    "active" : true
-  }, {
-    "input" : "5 10\n3 20\n2 20\n1 20\n4 20\n5 20\n",
-    "output" : "60\n",
-    "index" : 1,
-    "active" : true
-  } ],
-  "location" : "src/codes",
-  "vmArgs" : "-Xmx256M",
-  "mainClass" : "Main",
-  "taskClass" : "codes.BValeraAndFruits",
-  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
-  "checkerParameters" : "",
-  "testClasses" : [ ],
-  "date" : "2019.01.08",
-  "contestName" : "Codeforces Round #252 (Div. 2)",
-  "truncate" : true,
-  "inputClass" : "java.util.Scanner",
-  "outputClass" : "java.io.PrintWriter",
-  "includeLocale" : false,
-  "failOnOverflow" : false,
-  "interactive" : false,
-  "interactor" : "net.egork.chelper.tester.Interactor"
+  "tests": [
+    {
+      "input": "2 3\n1 5\n2 3\n",
+      "output": "8\n",
+      "index": 0,
+      "active": true
+    },
+    {
+      "input": "5 10\n3 20\n2 20\n1 20\n4 20\n5 20\n",
+      "output": "60\n",
+      "index": 1,
+      "active": true
+    }
+  ],
+  "location": "src/codes",
+  "vmArgs": "-Xmx256M",
+  "mainClass": "Main",
+  "taskClass": "codes.BValeraAndFruits",
+  "checkerClass": "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters": "",
+  "testClasses": [],
+  "date": "2019.01.08",
+  "contestName": "Codeforces Round #252 (Div. 2)",
+  "truncate": true,
+  "inputClass": "java.util.Scanner",
+  "outputClass": "java.io.PrintWriter",
+  "includeLocale": false,
+  "failOnOverflow": false,
+  "interactive": false,
+  "interactor": "net.egork.chelper.tester.Interactor"
 }

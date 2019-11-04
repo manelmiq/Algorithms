@@ -35,21 +35,21 @@ public class Allsubsets {
         int n = nums.length;
         for (int i = 0; i < (1 << n); i++) {
             LinkedList<Integer> ans = new LinkedList<>();
-            for (int j = 0; j < n; j++){
+            for (int j = 0; j < n; j++) {
                 int result = (i & (1 << j));
                 System.out.println("i " + result);
-                if ((i & (1 << j)) > 0){
+                if ((i & (1 << j)) > 0) {
                     ans.add(nums[j]);
 //                    System.out.print(nums[j] + " ");
                 }
             }
             list.add(ans);
             System.out.println("___");
-                // (1<<j) is a number with jth bit 1
-                // so when we 'and' them with the
-                // subset number we get which numbers
-                // are present in the subset and which
-                // are not
+            // (1<<j) is a number with jth bit 1
+            // so when we 'and' them with the
+            // subset number we get which numbers
+            // are present in the subset and which
+            // are not
         }
         return list;
     }

@@ -6,8 +6,6 @@ import java.io.PrintWriter;
 public class BPetrAndACombinationLock {
 
 
-
-
     public void solve(int testNumber, Scanner in, PrintWriter out) {
         int n = in.nextInt();
         int sum = 0;

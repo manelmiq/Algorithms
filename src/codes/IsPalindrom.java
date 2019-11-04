@@ -9,26 +9,26 @@ public class IsPalindrom {
         out.println(cointainsPalindrom(input));
     }
 
-    boolean isPalindrom(String s){
+    boolean isPalindrom(String s) {
         int pointerBegin = 0;
         int pointerEnd = s.length() - 1;
-        for(; pointerBegin < pointerEnd ; pointerBegin++, pointerEnd--){
-            if(s.charAt(pointerBegin) != s.charAt(pointerEnd)){
+        for (; pointerBegin < pointerEnd; pointerBegin++, pointerEnd--) {
+            if (s.charAt(pointerBegin) != s.charAt(pointerEnd)) {
                 return false;
             }
         }
         return true;
     }
 
-    boolean cointainsPalindrom(String s){
+    boolean cointainsPalindrom(String s) {
         int pointerBegin = 0;
         int pointerEnd = s.length() - 1;
-        for(; pointerBegin < pointerEnd ; pointerBegin++, pointerEnd--){
-            if(s.substring(i, j).length() > 2) {
-                boolean checkSubString = isPalindrom(s.substring(i, j));
-                if (checkSubString) {
-                    return checkSubString;
-                }
+        for (; pointerBegin < pointerEnd; pointerBegin++, pointerEnd--) {
+            if (s.substring(pointerBegin, pointerEnd).length() > 2) {
+//                boolean checkSubString = isPalindrom(s.substring(i, j));
+//                if (checkSubString) {
+//                    return checkSubString;
+//                }
             }
         }
         return false;

@@ -5,8 +5,9 @@ import java.util.Scanner;
 import java.io.PrintWriter;
 
 public class NQueensTest {
-    int num ;
+    int num;
     LinkedList<String[]> solutions;
+
     public void solve(int testNumber, Scanner in, PrintWriter out) {
 
 
@@ -41,9 +42,6 @@ public class NQueensTest {
 //        return true;
 //
 //    }
-
-
-
 
 
 }

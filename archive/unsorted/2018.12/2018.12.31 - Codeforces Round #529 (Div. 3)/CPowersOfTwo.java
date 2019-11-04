@@ -30,7 +30,7 @@ public class CPowersOfTwo {
         }
         while (cont_digits < k) {
             Integer actual = map.get(ele);
-            while (actual != null && actual > 0 && map.get(ele -1) != null) {
+            while (actual != null && actual > 0 && map.get(ele - 1) != null) {
                 Integer lower = map.get(ele - 1);
                 lower += 2;
                 actual--;
@@ -42,12 +42,12 @@ public class CPowersOfTwo {
                 }
             }
             ele--;
-            if(ele == 0){
-              break;
+            if (ele == 0) {
+                break;
             }
         }
-        
-        if(cont_digits < k){
+
+        if (cont_digits < k) {
             out.println("NO");
             return;
         }

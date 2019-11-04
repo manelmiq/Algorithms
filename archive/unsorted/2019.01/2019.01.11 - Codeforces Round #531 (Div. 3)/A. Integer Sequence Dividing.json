@@ -1,44 +1,48 @@
 {
-  "name" : "A. Integer Sequence Dividing",
-  "testType" : "SINGLE",
-  "input" : {
-    "type" : "STANDARD",
-    "fileName" : "input.txt"
+  "name": "A. Integer Sequence Dividing",
+  "testType": "SINGLE",
+  "input": {
+    "type": "STANDARD",
+    "fileName": "input.txt"
   },
-  "output" : {
-    "type" : "STANDARD",
-    "fileName" : "output.txt"
+  "output": {
+    "type": "STANDARD",
+    "fileName": "output.txt"
   },
-  "tests" : [ {
-    "input" : "3\n",
-    "output" : "0\n",
-    "index" : 0,
-    "active" : true
-  }, {
-    "input" : "5\n",
-    "output" : "1\n",
-    "index" : 1,
-    "active" : true
-  }, {
-    "input" : "6\n",
-    "output" : "1\n",
-    "index" : 2,
-    "active" : true
-  } ],
-  "location" : "src/codes",
-  "vmArgs" : "-Xmx256M",
-  "mainClass" : "Main",
-  "taskClass" : "codes.AIntegerSequenceDividing",
-  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
-  "checkerParameters" : "",
-  "testClasses" : [ ],
-  "date" : "2019.01.11",
-  "contestName" : "Codeforces Round #531 (Div. 3)",
-  "truncate" : true,
-  "inputClass" : "java.util.Scanner",
-  "outputClass" : "java.io.PrintWriter",
-  "includeLocale" : false,
-  "failOnOverflow" : false,
-  "interactive" : false,
-  "interactor" : "net.egork.chelper.tester.Interactor"
+  "tests": [
+    {
+      "input": "3\n",
+      "output": "0\n",
+      "index": 0,
+      "active": true
+    },
+    {
+      "input": "5\n",
+      "output": "1\n",
+      "index": 1,
+      "active": true
+    },
+    {
+      "input": "6\n",
+      "output": "1\n",
+      "index": 2,
+      "active": true
+    }
+  ],
+  "location": "src/codes",
+  "vmArgs": "-Xmx256M",
+  "mainClass": "Main",
+  "taskClass": "codes.AIntegerSequenceDividing",
+  "checkerClass": "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters": "",
+  "testClasses": [],
+  "date": "2019.01.11",
+  "contestName": "Codeforces Round #531 (Div. 3)",
+  "truncate": true,
+  "inputClass": "java.util.Scanner",
+  "outputClass": "java.io.PrintWriter",
+  "includeLocale": false,
+  "failOnOverflow": false,
+  "interactive": false,
+  "interactor": "net.egork.chelper.tester.Interactor"
 }

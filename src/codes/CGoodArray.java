@@ -1,7 +1,6 @@
 package codes;
 
 
-
 import javax.swing.*;
 import java.util.*;
 import java.io.PrintWriter;
@@ -25,9 +24,9 @@ public class CGoodArray {
         for (int i = 0; i < n; i++) {
             sum -= nums[i];
             map[nums[i]]--;
-            Long search =   sum / 2;
+            Long search = sum / 2;
             if (search <= 1000000) {
-                if (sum % 2 == 0 && map[(int)(long)search] > 0) {
+                if (sum % 2 == 0 && map[(int) (long) search] > 0) {
                     ans[cont_ans++] = i + 1;
                 }
             }

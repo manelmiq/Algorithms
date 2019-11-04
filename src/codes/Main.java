@@ -1,7 +1,6 @@
 package codes;
 
 
-
 class Container {
     private String initial = "A";
 

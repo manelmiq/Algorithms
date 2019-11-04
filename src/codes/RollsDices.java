@@ -12,8 +12,8 @@ public class RollsDices {
     }
 
     public int numRollsToTarget(int d, int f, int target) {
-        int dices[] = new int [d];
-        for(int i = 0; i < d; i++){
+        int dices[] = new int[d];
+        for (int i = 0; i < d; i++) {
             dices[i] = 1;
         }
 

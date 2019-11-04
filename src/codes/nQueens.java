@@ -9,12 +9,12 @@ public class nQueens {
 
     public void solve(int testNumber, Scanner in, PrintWriter out) {
         this.num = in.nextInt();
-        out.println( printCorrect(solveNQueens(num) ));
+        out.println(printCorrect(solveNQueens(num)));
     }
 
     private List<List<String>> printCorrect(List<String[]> solveNQueens) {
         List<List<String>> list = new LinkedList<>();
-        for(int i = 0; i < solveNQueens.size(); i++){
+        for (int i = 0; i < solveNQueens.size(); i++) {
             list.add(Arrays.asList(solveNQueens.get(i)));
         }
         return list;
@@ -28,13 +28,13 @@ public class nQueens {
             return result;
         }
 
-        solveNqueensHelper( 0, new int[n], result);
+        solveNqueensHelper(0, new int[n], result);
 
         return result;
     }
 
-    private void solveNqueensHelper( int row, int[] board, List<String[]> solutions) {
-        if (row ==  num) {
+    private void solveNqueensHelper(int row, int[] board, List<String[]> solutions) {
+        if (row == num) {
             String[] solution = new String[num];
             for (int i = 0; i < num; i++) {
                 StringBuilder temp = new StringBuilder();
@@ -50,7 +50,7 @@ public class nQueens {
         for (int j = 0; j < num; j++) {
             if (isValid(j, row, board) == true) {
                 board[row] = j;
-                solveNqueensHelper( row + 1, board, solutions);
+                solveNqueensHelper(row + 1, board, solutions);
             }
         }
     }

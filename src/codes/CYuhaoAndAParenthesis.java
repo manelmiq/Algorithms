@@ -7,19 +7,19 @@ import java.io.PrintWriter;
 
 public class CYuhaoAndAParenthesis {
 
-    boolean check(String s){
+    boolean check(String s) {
         Deque<Character> stack = new ArrayDeque<>();
-        for(Character c : s.toCharArray()){
-            if(c == '('){
+        for (Character c : s.toCharArray()) {
+            if (c == '(') {
                 stack.push(c);
-            }else {
-                if(stack.isEmpty()){
+            } else {
+                if (stack.isEmpty()) {
                     return false;
                 }
                 stack.pop();
             }
         }
-        if(!stack.isEmpty()){
+        if (!stack.isEmpty()) {
             return false;
         }
 

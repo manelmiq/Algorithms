@@ -50,18 +50,20 @@ public class DoublyLinkedList {
 
     public void removeByValue(String element) {
         Node tmp = head;
-        Node begin = new Node("", null, null);
+        Node begin = null;
         while (tmp != null) {
             if (tmp.val.equals(element)) {
-                begin.next = tmp.next;
+                if (begin != null) {
+                    begin.next = tmp.next;
+                }
                 if (tmp.next != null) {
                     tmp.next.previous = begin;
                 }
                 head = begin;
+                size--;
                 break;
             }
-            Node newNode = new Node(tmp.val, null, begin);
-            begin = newNode;
+            begin = new Node(tmp.val, null, begin);
             tmp = tmp.next;
         }
     }
@@ -72,7 +74,7 @@ public class DoublyLinkedList {
         StringBuilder str = new StringBuilder();
         int count = 0;
         while (tmp != null) {
-            str.append( (count > 0) ? ", " + tmp.val :  tmp.val);
+            str.append((count > 0) ? ", " + tmp.val : tmp.val);
             count++;
             tmp = tmp.next;
         }

@@ -89,13 +89,13 @@ public class DominoPieace {
             Domino d1 = new Domino(dominoes[i][0], dominoes[i][1]);
             Domino d2 = new Domino(dominoes[i][1], dominoes[i][0]);
             hash.get(d1).removeFirst();
-            if (hash.get(d1) != null ) {
+            if (hash.get(d1) != null) {
 //                System.out.println("search itselft");
                 ans += hash.get(d1).size();
             }
 
-            if(d1.a != d2.a){
-                if (hash.get(d2) != null){
+            if (d1.a != d2.a) {
+                if (hash.get(d2) != null) {
 //                    System.out.println("search oppositive");
                     ans += hash.get(d2).size();
                 }

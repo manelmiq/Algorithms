@@ -8,7 +8,7 @@ public class BArrayKColoring {
         int n = in.nextInt();
         int k = in.nextInt();
         int[] a = new int[n];
-        for(int i = 0; i < n; i++){
+        for (int i = 0; i < n; i++) {
             a[i] = in.nextInt();
         }
 

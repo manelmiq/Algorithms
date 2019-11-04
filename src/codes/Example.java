@@ -3,9 +3,8 @@ package codes;
 import java.util.*;
 
 
-
 public class Example {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         // Creating Priority queue constructor having  
         // initial capacity=3 and a StudentComparator instance  
@@ -35,7 +34,7 @@ public class Example {
     }
 }
 
-class StudentComparator implements Comparator<Student>{
+class StudentComparator implements Comparator<Student> {
 
     // Overriding compare()method of Comparator
     // for descending order of cgpa
