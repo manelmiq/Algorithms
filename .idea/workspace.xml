@@ -23,14 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42637be8-7208-4aef-8854-22fbad157634" name="Default Changelist" comment="Algorithsm for training">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueens.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueens.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueens.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codes/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/NQueens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codes/NQueens.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/NQueens.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerank/sorting/Fraudelent Activity.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerank/sorting/Fraudelent Activity.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -4389,7 +4385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677400017245</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Algorithsm for training">
+      <created>1677441819199</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677441819199</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -4452,11 +4455,6 @@
           <url>file://$PROJECT_DIR$/src/codes/permuteUnique.java</url>
           <line>52</line>
           <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hackerank/sorting/FraudelentActivity.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
