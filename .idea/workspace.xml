@@ -23,165 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42637be8-7208-4aef-8854-22fbad157634" name="Default Changelist" comment="Algorithsm for training">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/A - Pretty Permutations.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/A - Stone Game.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/TaskAB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/Trapping Rain Water.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contests/_1538/A - Stone Game.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contests/_1538/TaskAB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerank/sorting/Fraudelent Activity.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerank/sorting/FraudelentActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/contest728/B - Pleasant Pairs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/contest728/TaskB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/contest728/TaskBB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/VerifyAlienDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/VerifyAlienDictionary.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/Task216.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/Task216.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/TrappingRainWater.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/Two Sum.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/SortColors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/myAtoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/myAtoi.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/JavaThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChelperTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ChelperTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/A. Circle of Students.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/A. Circle of Students.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/A. Two distinct points.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/A. Two distinct points.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/ACircleOfStudents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/ACircleOfStudents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/ASnowball.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/ASnowball.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/ATwoDistinctPoints.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/ATwoDistinctPoints.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Allsubsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Allsubsets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Allsubsets.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Allsubsets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Anagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Anagram.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Anagram.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/B - Bear and Tree Jumps.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/B - Bear and Tree Jumps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/B. Array K-Coloring.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/B. Array K-Coloring.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/B. Divisors of Two Integers.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/B. Divisors of Two Integers.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/BArrayKColoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/BArrayKColoring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/BDivisorsOfTwoIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/BDivisorsOfTwoIntegers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/BValeraAndFruits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/BValeraAndFruits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/C - Bear and Company.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/C - Bear and Company.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/C. Nice Garland.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/C. Nice Garland.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/CGoodArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/CGoodArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/CNiceGarland.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/CNiceGarland.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/CYuhaoAndAParenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/CYuhaoAndAParenthesis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/CoinChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/CoinChange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Container.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Container.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/DBalancedTernaryString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/DBalancedTernaryString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/DifferenceDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/DifferenceDate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/DominoPieace$Domino.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/DominoPieace$Domino.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/DominoPieace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/DominoPieace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/DominoPieace.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/DominoPieace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/E. Monotonic Renumeration.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/E. Monotonic Renumeration.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/EMonotonicRenumeration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/EMonotonicRenumeration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/FElongatedMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/FElongatedMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/InsertedSorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/InsertedSorted.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/InsertedSorted.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/InsertedSorted.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/IsPalindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/IsPalindrom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/IsPalindrom.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/IsPalindrom.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/LeaderBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/LeaderBoard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/MergeSort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueens.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueens.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueens.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueensTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueensTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/OuterMostParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/OuterMostParentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/OuterMostParentheses.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/OuterMostParentheses.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/PermutateString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/PermutateString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/PermutateString.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/PermutateString.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/RollDice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/RollDice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/RollDice.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/RollDice.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/RollsDices.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/RollsDices.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/StockProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/StockProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/StockProblem.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/StockProblem.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Strings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/StudentComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/StudentComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Task.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskCodility.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskCodility.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskOddArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskOddArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskUri15$Schedule.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskUri15$Schedule.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskUri15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskUri15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TestMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TestMaker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/permuteUnique.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/permuteUnique.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/permuteUnique.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/permuteUnique.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/DoublyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/DoublyLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/DoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/DoublyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/LinkedList/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/LinkedList/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/LinkedList/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/LinkedList/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/LinkedList/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/LinkedList/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/TestLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/TestLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/BookCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/BookCollection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/IBookReadOnly.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/IBookReadOnly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/Price.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/Price.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/IkmTest$Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/IkmTest$Helper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/IkmTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/IkmTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/PersonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/PersonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/java8/FuncionalInterfacesExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/java8/FuncionalInterfacesExamples.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_01/Lambdas_01_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_01/Lambdas_01_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_02/Lambdas_01_02$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_02/Lambdas_01_02$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_02/Lambdas_01_02$GreetingFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_02/Lambdas_01_02$GreetingFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_02/Lambdas_01_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_02/Lambdas_01_02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_03/Lambdas_01_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_03/Lambdas_01_03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_04/Calculate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_04/Calculate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_04/Lambdas_01_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_04/Lambdas_01_04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Lambdas_02_01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Lambdas_02_01$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Lambdas_02_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Lambdas_02_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_02/Lambdas_02_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_02/Lambdas_02_02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_03/Lambdas_02_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_03/Lambdas_02_03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/support/MyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/support/MyLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/support/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/support/MyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/support/Transformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/support/Transformation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/A. Circle of Students.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/A. Circle of Students.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/A. Two distinct points.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/A. Two distinct points.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/Allsubsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Allsubsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/Allsubsets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Allsubsets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/Anagram.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Anagram.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/B - Bear and Tree Jumps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/B - Bear and Tree Jumps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/B. Array K-Coloring.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/B. Array K-Coloring.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/B. Divisors of Two Integers.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/B. Divisors of Two Integers.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/BArrayKColoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/BArrayKColoring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/C - Bear and Company.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/C - Bear and Company.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/C. Nice Garland.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/C. Nice Garland.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/CGoodArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/CGoodArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/DominoPieace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/DominoPieace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/DominoPieace.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/DominoPieace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/E. Monotonic Renumeration.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/E. Monotonic Renumeration.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/InsertedSorted.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/InsertedSorted.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/IsPalindrom.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/IsPalindrom.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/LeaderBoard.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/LeaderBoard.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/MergeSort.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/MergeSort.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codes/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/NQueens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codes/NQueens.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/NQueens.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/OuterMostParentheses.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/OuterMostParentheses.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/PermutateString.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/PermutateString.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/RollDice.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/RollDice.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/StockProblem.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/StockProblem.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/TaskB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/TaskB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/permuteUnique.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/permuteUnique.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/support/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/support/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerank/sorting/Fraudelent Activity.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerank/sorting/Fraudelent Activity.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,7 +131,7 @@
       <command value="java" />
     </option>
   </component>
-  <component name="RunManager" selected="Task.Fraudelent Activity">
+  <component name="RunManager" selected="Task.VerifyAlienDictionary">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codes.Example" />
       <module name="ChelperTest" />
@@ -373,11 +222,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="A - Stone Game" type="Task" factoryName="Task">
       <taskConf>src/contests/_1538/A - Stone Game.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -467,11 +318,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="A. Two distinct points" type="Task" factoryName="Task">
       <taskConf>src/codes/A. Two distinct points.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -664,11 +517,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Anagram" type="Task" factoryName="Task">
       <taskConf>src/codes/Anagram.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -864,11 +719,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="B - Pleasant Pairs" type="Task" factoryName="Task">
       <taskConf>src/leetcode/contest728/B - Pleasant Pairs.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -998,11 +855,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="B. Divisors of Two Integers" type="Task" factoryName="Task">
       <taskConf>src/codes/B. Divisors of Two Integers.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1226,11 +1085,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="C. Nice Garland" type="Task" factoryName="Task">
       <taskConf>src/codes/C. Nice Garland.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1449,6 +1310,7 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="CoinChange" type="Task" factoryName="Task">
@@ -1520,11 +1382,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="D - Bear and Rectangle Strips" type="Task" factoryName="Task">
       <taskConf>src/codes/D - Bear and Rectangle Strips.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1759,11 +1623,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="DecodeString" type="Task" factoryName="Task">
       <taskConf>src/codes/DecodeString.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1943,6 +1809,7 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="DominoPieace" type="Task" factoryName="Task">
@@ -2037,11 +1904,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="E - Bear and Isomorphic Points" type="Task" factoryName="Task">
       <taskConf>src/codes/E - Bear and Isomorphic Points.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -2276,11 +2145,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="F. Elongated Matrix" type="Task" factoryName="Task">
       <taskConf>src/codes/F. Elongated Matrix.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -2400,11 +2271,14 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="InsertedSorted" type="Task" factoryName="Task">
       <taskConf>src/codes/InsertedSorted.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -2542,6 +2416,7 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Knapsack" type="Task" factoryName="Task">
@@ -2600,11 +2475,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="LeaderBoard" type="Task" factoryName="Task">
       <taskConf>src/codes/LeaderBoard.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -2761,11 +2638,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="NQueens" type="Task" factoryName="Task">
       <taskConf>src/codes/nQueens.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -2940,11 +2819,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="OuterMostParentheses" type="Task" factoryName="Task">
       <taskConf>src/codes/OuterMostParentheses.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -3116,11 +2997,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="RollDice" type="Task" factoryName="Task">
       <taskConf>src/codes/RollDice.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -3274,6 +3157,7 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="SortColors" type="Task" factoryName="Task">
@@ -3300,11 +3184,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="StockProblem" type="Task" factoryName="Task">
       <taskConf>src/codes/StockProblem.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -3445,11 +3331,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Task" type="Task" factoryName="Task">
       <taskConf>src/codes/Task.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -3526,11 +3414,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="TaskCodility" type="Task" factoryName="Task">
       <taskConf>src/codes/TaskCodility.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -3727,11 +3617,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="TaskURi1523" type="Task" factoryName="Task">
       <taskConf>src/codes/TaskURi1523.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -3931,6 +3823,7 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Trapping Rain Water" type="Task" factoryName="Task">
@@ -3965,11 +3858,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="TrappingRainWater" type="Task" factoryName="Task">
       <taskConf>src/leetcode/hard/TrappingRainWater.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -4032,6 +3927,7 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="VerifyAlienDictionary" type="Task" factoryName="Task">
@@ -4054,11 +3950,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="myAtoi" type="Task" factoryName="Task">
       <taskConf>src/leetcode/medium/myAtoi.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -4172,11 +4070,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="permuteUnique" type="Task" factoryName="Task">
       <taskConf>src/codes/permuteUnique.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -4475,7 +4375,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567440188793</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Algorithsm for training">
+      <created>1677399970277</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677399970277</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Algorithsm for training">
+      <created>1677400017245</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677400017245</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -4539,7 +4453,17 @@
           <line>52</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hackerank/sorting/FraudelentActivity.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Task">
+        <watch expression="calculateMedianDouble(countAppears, d)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

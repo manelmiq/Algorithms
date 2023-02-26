@@ -43,7 +43,7 @@ public class FraudelentActivity {
         if ((listSize % 2) == 1) {
             for (int i = 0; i <= 200; i++) {
                 initialCount -= appCounter[i];
-                if (initialCount <= 0) {
+                if (initialCount < 0) {
                     return i * 2;
                 }
             }
