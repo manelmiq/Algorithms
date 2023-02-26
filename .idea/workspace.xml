@@ -22,16 +22,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42637be8-7208-4aef-8854-22fbad157634" name="Default Changelist" comment="Algorithsm for training">
-      <change afterPath="$PROJECT_DIR$/src/codes/roman to integer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/romantointeger.java" afterDir="false" />
+    <list default="true" id="d962caa3-ba41-4524-ad64-8eeed87cea3f" name="Changes" comment="Algorithsm for training">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueens.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueens.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueens.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codes/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/NQueens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codes/NQueens.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/NQueens.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/NQueensTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/nQueens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/nQueens.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,9 @@
     <option name="done" value="true" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="1029" />
+    <option name="totalTimeSeconds" value="1170" />
+    <option name="gitIntegration" value="true" />
+    <option name="naggedAbout" value="1" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -2761,96 +2762,6 @@
       <taskConf>src/codes/nQueens.json</taskConf>
       <method v="2">
         <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="NQueensTest" type="Task" factoryName="Task">
@@ -4373,6 +4284,7 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <list>
@@ -4655,11 +4567,6 @@
           <url>file://$PROJECT_DIR$/src/codes/Main.java</url>
           <line>20</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/codes/nQueens.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codes/DifferenceDate.java</url>
