@@ -26,6 +26,16 @@ public class MyLinkedList {
 
 
     public static void main(String[] args) {
+        String a = "abc";
+        String b = "abc";
+        String c = new String ("abc");
+        if(a == b && b.equals(c)){
+            System.out.println("there are equal");
+        }else{
+            System.out.println("there are not equal");
+
+        }
+
 
     }
 

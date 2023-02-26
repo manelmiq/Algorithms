@@ -90,7 +90,7 @@ public class DominoPieace {
             Domino d2 = new Domino(dominoes[i][1], dominoes[i][0]);
             hash.get(d1).removeFirst();
             if (hash.get(d1) != null) {
-//                System.out.println("search itselft");
+//                 System.out.println("search itselft");
                 ans += hash.get(d1).size();
             }
 

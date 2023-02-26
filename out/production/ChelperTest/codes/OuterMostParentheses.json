@@ -1,42 +1,39 @@
 {
-  "name": "OuterMostParentheses",
-  "testType": "SINGLE",
-  "input": {
-    "type": "STANDARD",
-    "fileName": "input.txt"
+  "name" : "OuterMostParentheses",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
   },
-  "output": {
-    "type": "STANDARD",
-    "fileName": "output.txt"
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
   },
-  "tests": [
-    {
-      "input": "(()())(())",
-      "output": "()()()",
-      "index": 0,
-      "active": true
-    },
-    {
-      "input": "(()())(())(()(()))",
-      "output": "()()()()(())\n",
-      "index": 1,
-      "active": true
-    }
-  ],
-  "location": "src/codes",
-  "vmArgs": "-Xmx256m -Xss64m",
-  "mainClass": "Main",
-  "taskClass": "codes.OuterMostParentheses",
-  "checkerClass": "net.egork.chelper.checkers.TokenChecker",
-  "checkerParameters": "",
-  "testClasses": [],
-  "date": "2019.08.07",
-  "contestName": "",
-  "truncate": true,
-  "inputClass": "java.util.Scanner",
-  "outputClass": "java.io.PrintWriter",
-  "includeLocale": false,
-  "failOnOverflow": false,
-  "interactive": false,
-  "interactor": "net.egork.chelper.tester.Interactor"
+  "tests" : [ {
+    "input" : "(()())(())",
+    "output" : "()()()",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "(()())(())(()(()))",
+    "output" : "()()()()(())\n",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/codes",
+  "vmArgs" : "-Xmx256m -Xss64m",
+  "mainClass" : "Main",
+  "taskClass" : "codes.OuterMostParentheses",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2019.08.07",
+  "contestName" : "",
+  "truncate" : true,
+  "inputClass" : "java.util.Scanner",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
 }

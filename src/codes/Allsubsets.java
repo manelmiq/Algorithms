@@ -1,5 +1,6 @@
 package codes;
 
+import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
@@ -8,9 +9,14 @@ import java.io.PrintWriter;
 public class Allsubsets {
     public void solve(int testNumber, Scanner in, PrintWriter out) {
         String input = in.next();
+        String target = in.next();
         int arr[] = stringToIntegerArray(input);
-
-        System.out.println(subsets(arr));
+        int targetNumber = Integer.parseInt(target);
+        int ans[] = twoSum(arr, targetNumber);
+        for(int i = 0; i < ans.length ; i++){
+            System.out.print(ans[i]);
+        }
+//        System.out.println(twoSum(arr, targetNumber));
 
     }
 
@@ -30,27 +36,18 @@ public class Allsubsets {
         return output;
     }
 
-    public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> list = new LinkedList<>();
-        int n = nums.length;
-        for (int i = 0; i < (1 << n); i++) {
-            LinkedList<Integer> ans = new LinkedList<>();
-            for (int j = 0; j < n; j++) {
-                int result = (i & (1 << j));
-                System.out.println("i " + result);
-                if ((i & (1 << j)) > 0) {
-                    ans.add(nums[j]);
-//                    System.out.print(nums[j] + " ");
-                }
+    public int[] twoSum(int[] nums, int target) {
+        int res[] = new int[2];
+        HashMap<Integer, Integer> complement = new HashMap<>();
+        for(int i = 0; i < nums.length; i++){
+            if(complement.get( target - nums[i]) != null){
+                res[0] = complement.get( target - nums[i]);
+                res[1] = i;
+                return res;
             }
-            list.add(ans);
-            System.out.println("___");
-            // (1<<j) is a number with jth bit 1
-            // so when we 'and' them with the
-            // subset number we get which numbers
-            // are present in the subset and which
-            // are not
+            complement.put(nums[i] - target, i);
         }
-        return list;
+
+        return null;
     }
 }
