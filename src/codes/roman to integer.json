@@ -1,0 +1,44 @@
+{
+  "name" : "roman to integer",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "III",
+    "output" : "3",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "LVIII",
+    "output" : "58",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "MCMXCIV",
+    "output" : "1994",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "src/codes",
+  "vmArgs" : "-Xmx256m -Xss64m",
+  "mainClass" : "Main",
+  "taskClass" : "codes.romantointeger",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2023.02.26",
+  "contestName" : "",
+  "truncate" : true,
+  "inputClass" : "java.util.Scanner",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}
