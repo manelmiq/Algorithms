@@ -1,0 +1,39 @@
+{
+  "name" : "Building",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "[4,2,3,1]",
+    "output" : "[0 , 2 , 3]",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "[75,1,19,44,3,63,61,84,21,29,55,28,59,26,69,80,81,98,55,50,86,77,58,39,29,11,81,12,75,55,97,77,98,14,51,58,32,51,36,53,1,45,45]\n",
+    "output" : "[32,35,39,42]\n",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/leetcode/medium",
+  "vmArgs" : "-Xmx256m -Xss64m",
+  "mainClass" : "Main",
+  "taskClass" : "leetcode.medium.Building",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2023.03.24",
+  "contestName" : "",
+  "truncate" : true,
+  "inputClass" : "java.util.Scanner",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

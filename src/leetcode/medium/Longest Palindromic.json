@@ -1,0 +1,39 @@
+{
+  "name" : "Longest Palindromic",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "babad",
+    "output" : "bab",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "cbbd",
+    "output" : "bb",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/leetcode/medium",
+  "vmArgs" : "-Xmx256m -Xss64m",
+  "mainClass" : "Main",
+  "taskClass" : "leetcode.medium.LongestPalindromic",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2023.03.27",
+  "contestName" : "",
+  "truncate" : true,
+  "inputClass" : "java.util.Scanner",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}
