@@ -23,23 +23,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d962caa3-ba41-4524-ad64-8eeed87cea3f" name="Changes" comment="Algorithsm for training">
-      <change afterPath="$PROJECT_DIR$/src/contests/C1 - Powering the Hero (easy version).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contests/TaskC22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/medianSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/medianSortedArray.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/Building.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/FinPeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/FinPeak.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/Longest Palindromic.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/LongestPalindromic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/NearestColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/NearestColor.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/positions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/LinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/LinkedList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/Reverse Linked List.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_6_2023_9_29_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_6_2023_9_29_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChelperTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ChelperTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/support/Transformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/support/Transformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructures/LinkedList/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/LinkedList/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/hard/medianSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/hard/medianSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +43,7 @@
     <option name="done" value="true" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="19998" />
+    <option name="totalTimeSeconds" value="32094" />
     <option name="gitIntegration" value="true" />
     <option name="naggedAbout" value="1" />
   </component>
@@ -258,11 +251,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="A - Stone Game" type="Task" factoryName="Task">
       <taskConf>src/contests/_1538/A - Stone Game.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -396,11 +395,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="A. Two distinct points" type="Task" factoryName="Task">
       <taskConf>src/codes/A. Two distinct points.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -637,11 +642,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Anagram" type="Task" factoryName="Task">
       <taskConf>src/codes/Anagram.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -881,6 +892,9 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="B - Pleasant Pairs" type="Task" factoryName="Task">
@@ -921,11 +935,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="B. Array K-Coloring" type="Task" factoryName="Task">
       <taskConf>src/codes/B. Array K-Coloring.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1186,6 +1206,9 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Building" type="Task" factoryName="Task">
@@ -1202,11 +1225,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="C - Bear and Company" type="Task" factoryName="Task">
       <taskConf>src/codes/C - Bear and Company.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1367,11 +1396,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="C. Nice Garland" type="Task" factoryName="Task">
       <taskConf>src/codes/C. Nice Garland.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1634,6 +1669,9 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="CoinChange" type="Task" factoryName="Task">
@@ -1727,11 +1765,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="D - Bear and Rectangle Strips" type="Task" factoryName="Task">
       <taskConf>src/codes/D - Bear and Rectangle Strips.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -2010,11 +2054,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="DecodeString" type="Task" factoryName="Task">
       <taskConf>src/codes/DecodeString.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -2238,6 +2288,9 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="DominoPieace" type="Task" factoryName="Task">
@@ -2354,11 +2407,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="E - Bear and Isomorphic Points" type="Task" factoryName="Task">
       <taskConf>src/codes/E - Bear and Isomorphic Points.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -2637,11 +2696,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="F. Elongated Matrix" type="Task" factoryName="Task">
       <taskConf>src/codes/F. Elongated Matrix.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -2790,6 +2855,9 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Fraudelent Activity" type="Task" factoryName="Task">
@@ -2821,11 +2889,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="InsertedSorted" type="Task" factoryName="Task">
       <taskConf>src/codes/InsertedSorted.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -3007,11 +3081,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Knapsack" type="Task" factoryName="Task">
       <taskConf>src/cs435/assignment1/Knapsack.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -3185,6 +3265,9 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Leetcode1487" type="Task" factoryName="Task">
@@ -3211,11 +3294,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Longest Palindromic" type="Task" factoryName="Task">
       <taskConf>src/leetcode/medium/Longest Palindromic.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -3330,11 +3419,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="NQueens" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -3463,6 +3558,9 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="NearestColor" type="Task" factoryName="Task">
@@ -3479,11 +3577,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="OuterMostParentheses" type="Task" factoryName="Task">
       <taskConf>src/codes/OuterMostParentheses.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -3699,11 +3803,30 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Reverse Linked List" type="Task" factoryName="Task">
+      <taskConf>src/leetcode/medium/Reverse Linked List.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="RollDice" type="Task" factoryName="Task">
       <taskConf>src/codes/RollDice.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -3901,6 +4024,9 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="SortColors" type="Task" factoryName="Task">
@@ -3949,11 +4075,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="StockProblem" type="Task" factoryName="Task">
       <taskConf>src/codes/StockProblem.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -4138,11 +4270,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Task" type="Task" factoryName="Task">
       <taskConf>src/codes/Task.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -4263,11 +4401,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="TaskCodility" type="Task" factoryName="Task">
       <taskConf>src/codes/TaskCodility.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -4508,11 +4652,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="TaskURi1523" type="Task" factoryName="Task">
       <taskConf>src/codes/TaskURi1523.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -4756,6 +4906,9 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Trapping Rain Water" type="Task" factoryName="Task">
@@ -4812,11 +4965,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="TrappingRainWater" type="Task" factoryName="Task">
       <taskConf>src/leetcode/hard/TrappingRainWater.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -4923,6 +5082,9 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="VerifyAlienDictionary" type="Task" factoryName="Task">
@@ -4967,11 +5129,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="medianSortedArray" type="Task" factoryName="Task">
       <taskConf>src/leetcode/hard/medianSortedArray.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -5025,11 +5193,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="nQueens" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -5247,11 +5421,17 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="roman to integer" type="Task" factoryName="Task">
       <taskConf>src/codes/roman to integer.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -5340,6 +5520,7 @@
       <item itemvalue="Task.NearestColor" />
       <item itemvalue="Task.Longest Palindromic" />
       <item itemvalue="Task.medianSortedArray" />
+      <item itemvalue="Task.Reverse Linked List" />
     </list>
     <recent_temporary>
       <list>
@@ -5598,12 +5779,32 @@
           <line>52</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/medium/ReverseLinkedList.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hard/medianSortedArray.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hard/medianSortedArray.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hard/medianSortedArray.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hard/medianSortedArray.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Task">
-        <watch expression="nums2" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>

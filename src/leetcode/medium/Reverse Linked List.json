@@ -1,0 +1,37 @@
+{
+  "name" : "Reverse Linked List",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "[1,2,3,4,5,6,7]\n3\n7",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "[1,2,3,4,5,6,7,8,9,10,12,13]\n3\n3",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/leetcode/medium",
+  "vmArgs" : "-Xmx256m -Xss64m",
+  "mainClass" : "Solution",
+  "taskClass" : "leetcode.medium.ReverseLinkedList",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2023.04.06",
+  "contestName" : "",
+  "truncate" : true,
+  "inputClass" : "java.util.Scanner",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}
