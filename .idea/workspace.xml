@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42637be8-7208-4aef-8854-22fbad157634" name="Default Changelist" comment="Solve some algorithms">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="42637be8-7208-4aef-8854-22fbad157634" name="Default Changelist" comment="Solve some algorithms" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -3474,7 +3471,7 @@
       <workItem from="1724259249892" duration="1679000" />
       <workItem from="1724285160166" duration="3027000" />
       <workItem from="1724331653346" duration="2559000" />
-      <workItem from="1724530763228" duration="4629000" />
+      <workItem from="1724530763228" duration="5050000" />
     </task>
     <task id="LOCAL-00001" summary="solving some problems">
       <created>1549434585228</created>
@@ -3544,7 +3541,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724534929449</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Solve some algorithms">
+      <option name="closed" value="true" />
+      <created>1724535479754</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724535479754</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
