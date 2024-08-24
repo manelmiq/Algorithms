@@ -19,6 +19,6 @@ Longest Substring Without Repeating Characters: https://leetcode.com/problems/lo
 
 Solution : leetcode/longestSubstringWithoutRepeatingCharacters/LongestSubstring.java
 
-| Problem            | Solution    | Topics |
-|--------------------|-------------|--------|
-| Longest Substring  | Row 3 Col 2 | Greed  |
+| Problem                                           | Solution | 
+|---------------------------------------------------|----------|
+| [Longest Substring without repeating character](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [code](https://github.com/manelmiq/Algorithms/blob/master/src/leetcode/longestSubstringWithoutRepeatingCharacters/LongestSubstring.java) |

@@ -5,36 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42637be8-7208-4aef-8854-22fbad157634" name="Default Changelist" comment="Solve some algorithms">
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.26 - Codeforces Round #405 (rated, Div. 1, based on VK Cup 2017 Round 1)/A - Bear and Different Names.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.26 - Codeforces Round #405 (rated, Div. 1, based on VK Cup 2017 Round 1)/TaskA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/A. Repeating Cipher.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/ARepeatingCipher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/B. Array Stabilization.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/BArrayStabilization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/C. Powers Of Two.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/CPowersOfTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.02 - Codeforces Round #529 (Div. 3)/D. Circular Dance.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.02 - Codeforces Round #529 (Div. 3)/DCircularDance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.03 - Codeforces Round #521 (Div. 3)/C. Good Array.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.03 - Codeforces Round #521 (Div. 3)/CGoodArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/A. Gennady and a Card Game.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/AGennadyAndACardGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/B. Petr and a Combination Lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/BPetrAndACombinationLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/A. Integer Sequence Dividing.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/AIntegerSequenceDividing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/B. Array K-Coloring.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/BArrayKColoring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/C. Doors Breaking and Repairing.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/CDoorsBreakingAndRepairing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/teste.js" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs435/assignment1/Knapsack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs435/assignment1/Knapsack.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs435/assignment2/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs435/assignment2/lab2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs435/assignment2/questions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs435/assignment2/questions/questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +29,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "manelmiq"
+  }
+}]]></component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -68,6 +46,12 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/manelmiq/AlgorithmsSolving.git",
+    "accountId": "a5d79fb4-a1f4-4d39-9f10-a004cb0b1607"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/.jdks/corretto-1.8.0_382/src.zip!/java/lang/ClassLoader.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.jdks/corretto-1.8.0_382/src.zip!/java/net/URLClassLoader.java" root0="SKIP_INSPECTION" />
@@ -105,7 +89,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -3490,7 +3474,7 @@
       <workItem from="1724259249892" duration="1679000" />
       <workItem from="1724285160166" duration="3027000" />
       <workItem from="1724331653346" duration="2559000" />
-      <workItem from="1724530763228" duration="3393000" />
+      <workItem from="1724530763228" duration="4629000" />
     </task>
     <task id="LOCAL-00001" summary="solving some problems">
       <created>1549434585228</created>
@@ -3544,7 +3528,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724533833068</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Solve some algorithms">
+      <option name="closed" value="true" />
+      <created>1724534280202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724534280202</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Solve some algorithms">
+      <option name="closed" value="true" />
+      <created>1724534929449</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724534929449</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
