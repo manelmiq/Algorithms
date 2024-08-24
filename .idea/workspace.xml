@@ -4,56 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42637be8-7208-4aef-8854-22fbad157634" name="Default Changelist" comment="Algorithsm for training">
-      <change afterPath="$PROJECT_DIR$/src/DumbellPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/A - Problem Generator.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/Task1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/Task2696.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/Task2696.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/TaskA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/DumbellTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/DumbellTask.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/MaxSubArrayValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/MaxSubArrayValue.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode122BestTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode122BestTime.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/longestSubstringWithoutRepeatingCharacters/LongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/longestSubstringWithoutRepeatingCharacters/LongestSubstring.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/A. Circle of Students.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/A. Circle of Students.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/CGoodArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/CGoodArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Container.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Container.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/D - Bear and Rectangle Strips.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/D - Bear and Rectangle Strips.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/LeaderBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/LeaderBoard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueensTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueensTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/StudentComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/StudentComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Task.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/permuteUnique.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/permuteUnique.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/TestLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/TestLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/Price.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/Price.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/IkmTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/IkmTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/PersonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/PersonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_01/Lambdas_01_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_01/Lambdas_01_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_02/Lambdas_01_02$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_02/Lambdas_01_02$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_02/Lambdas_01_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_02/Lambdas_01_02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_03/Lambdas_01_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_03/Lambdas_01_03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_04/Lambdas_01_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_04/Lambdas_01_04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Lambdas_02_01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Lambdas_02_01$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Lambdas_02_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Lambdas_02_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_02/Lambdas_02_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_02/Lambdas_02_02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_03/Lambdas_02_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_03/Lambdas_02_03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/support/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/support/MyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/A. Circle of Students.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/A. Circle of Students.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/D - Bear and Rectangle Strips.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/D - Bear and Rectangle Strips.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs435/assignment1/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs435/assignment1/Knapsack.java" afterDir="false" />
+    <list default="true" id="42637be8-7208-4aef-8854-22fbad157634" name="Default Changelist" comment="Solve some algorithms">
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.26 - Codeforces Round #405 (rated, Div. 1, based on VK Cup 2017 Round 1)/A - Bear and Different Names.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.26 - Codeforces Round #405 (rated, Div. 1, based on VK Cup 2017 Round 1)/TaskA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/A. Repeating Cipher.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/ARepeatingCipher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/B. Array Stabilization.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/BArrayStabilization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/C. Powers Of Two.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/CPowersOfTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.02 - Codeforces Round #529 (Div. 3)/D. Circular Dance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.02 - Codeforces Round #529 (Div. 3)/DCircularDance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.03 - Codeforces Round #521 (Div. 3)/C. Good Array.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.03 - Codeforces Round #521 (Div. 3)/CGoodArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/A. Gennady and a Card Game.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/AGennadyAndACardGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/B. Petr and a Combination Lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/BPetrAndACombinationLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/A. Integer Sequence Dividing.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/AIntegerSequenceDividing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/B. Array K-Coloring.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/BArrayKColoring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/C. Doors Breaking and Repairing.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/CDoorsBreakingAndRepairing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/teste.js" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs435/assignment1/Knapsack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs435/assignment1/Knapsack.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs435/assignment2/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs435/assignment2/lab2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs435/assignment2/questions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs435/assignment2/questions/questions" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -3509,7 +3490,7 @@
       <workItem from="1724259249892" duration="1679000" />
       <workItem from="1724285160166" duration="3027000" />
       <workItem from="1724331653346" duration="2559000" />
-      <workItem from="1724530763228" duration="2789000" />
+      <workItem from="1724530763228" duration="3393000" />
     </task>
     <task id="LOCAL-00001" summary="solving some problems">
       <created>1549434585228</created>
@@ -3539,7 +3520,31 @@
       <option name="project" value="LOCAL" />
       <updated>1567440188793</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Solve some algorithms">
+      <option name="closed" value="true" />
+      <created>1724533719714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724533719714</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Solve some algorithms">
+      <option name="closed" value="true" />
+      <created>1724533796166</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724533796166</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Solve some algorithms">
+      <option name="closed" value="true" />
+      <created>1724533833068</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724533833068</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -3563,7 +3568,8 @@
     <MESSAGE value="solving some problems" />
     <MESSAGE value="doublyLInked List" />
     <MESSAGE value="Algorithsm for training" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algorithsm for training" />
+    <MESSAGE value="Solve some algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve some algorithms" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
