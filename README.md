@@ -3,13 +3,12 @@ This repository contains solutions of problems of codeforces and other sort of p
 
 Highly Recommended to use [CHelper](https://plugins.jetbrains.com/plugin/7091-chelper) plugin and Intellij IDEA to run the code.
 
-The solution of problems are inside the folder archive.
 
 <br/>
 <br/>
 LeetCode: https://leetcode.com/u/emmanuellmiqueletti/
 
-
+<br>
 
 | Problem                                           | Solution | 
 |---------------------------------------------------|----------|
