@@ -1,4 +1,4 @@
-# AlgorithmsSolving
+# Algorithms
 This repository contains solutions of problems of codeforces and other sort of problems. 
 
 Highly Recommended to use CHelper plugin and Intellij IDEA to run the code.
