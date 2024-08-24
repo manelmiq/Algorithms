@@ -1,3 +1,3 @@
-26 src/codes/LeaderBoard.json
+77 src/leetcode/longestSubstringWithoutRepeatingCharacters/LongestSubstring.json
 1
 0

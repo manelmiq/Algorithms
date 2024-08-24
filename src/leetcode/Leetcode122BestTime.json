@@ -1,5 +1,5 @@
 {
-  "name" : "A. Circle of Students",
+  "name" : "Leetcode122BestTime",
   "testType" : "SINGLE",
   "input" : {
     "type" : "STANDARD",
@@ -10,20 +10,20 @@
     "fileName" : "output.txt"
   },
   "tests" : [ {
-    "input" : "5\n4\n1 2 3 4\n3\n1 3 2\n5\n1 2 3 5 4\n1\n1\n5\n3 2 1 5 4\n",
-    "output" : "YES\nYES\nNO\nYES\nYES\n",
+    "input" : "[7,1,5,3,6,4]",
+    "output" : "7",
     "index" : 0,
     "active" : true
   } ],
-  "location" : "src/codes",
-  "vmArgs" : "-Xmx256M",
+  "location" : "src/leetcode",
+  "vmArgs" : "-Xmx256m -Xss64m",
   "mainClass" : "Main",
-  "taskClass" : "codes.ACircleOfStudents",
+  "taskClass" : "leetcode.Leetcode122BestTime",
   "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
   "checkerParameters" : "",
   "testClasses" : [ ],
-  "date" : "2019.08.27",
-  "contestName" : "Codeforces Round #579 (Div. 3)",
+  "date" : "2024.04.10",
+  "contestName" : "",
   "truncate" : true,
   "inputClass" : "java.util.Scanner",
   "outputClass" : "java.io.PrintWriter",

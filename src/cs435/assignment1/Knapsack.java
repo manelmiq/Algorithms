@@ -42,7 +42,6 @@ public class Knapsack {
         }
     }
 
-
     public void solve(int testNumber, Scanner in, PrintWriter out) {
         int weight = in.nextInt();
         int itemNumber = in.nextInt();
@@ -61,16 +60,9 @@ public class Knapsack {
             sum += list.get(i).getWeight();
 
         }
-
     }
 
 
     private void knapsackGreedy(int weight, List<Item> list) {
-
-
     }
-
-
-
-
 }

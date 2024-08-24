@@ -1,168 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="42637be8-7208-4aef-8854-22fbad157634" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/teste.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs435/assignment2/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs435/assignment2/lab2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs435/assignment2/questions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs435/assignment2/questions/questions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/LinkedList/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/BookCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/IBookReadOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/Price.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/questions/IkmTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/questions/JavaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/questions/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/questions/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/questions/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/FuncionalInterfacesExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/Transformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="42637be8-7208-4aef-8854-22fbad157634" name="Default Changelist" comment="Algorithsm for training">
+      <change afterPath="$PROJECT_DIR$/src/DumbellPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/A - Problem Generator.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/Task1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/Task2696.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/Task2696.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/TaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/DumbellTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/DumbellTask.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/MaxSubArrayValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/MaxSubArrayValue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode122BestTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode122BestTime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/longestSubstringWithoutRepeatingCharacters/LongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/longestSubstringWithoutRepeatingCharacters/LongestSubstring.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChelperTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ChelperTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.26 - Codeforces Round #405 (rated, Div. 1, based on VK Cup 2017 Round 1)/A - Bear and Different Names.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.26 - Codeforces Round #405 (rated, Div. 1, based on VK Cup 2017 Round 1)/A - Bear and Different Names.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/A. Repeating Cipher.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/A. Repeating Cipher.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/ARepeatingCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/ARepeatingCipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/B. Array Stabilization.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/B. Array Stabilization.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/BArrayStabilization.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/BArrayStabilization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/C. Powers Of Two.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/C. Powers Of Two.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/CPowersOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2018.12/2018.12.31 - Codeforces Round #529 (Div. 3)/CPowersOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.02 - Codeforces Round #529 (Div. 3)/D. Circular Dance.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.02 - Codeforces Round #529 (Div. 3)/D. Circular Dance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.02 - Codeforces Round #529 (Div. 3)/DCircularDance.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.02 - Codeforces Round #529 (Div. 3)/DCircularDance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.03 - Codeforces Round #521 (Div. 3)/C. Good Array.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.03 - Codeforces Round #521 (Div. 3)/C. Good Array.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.03 - Codeforces Round #521 (Div. 3)/CGoodArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.03 - Codeforces Round #521 (Div. 3)/CGoodArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/A. Gennady and a Card Game.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/A. Gennady and a Card Game.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/AGennadyAndACardGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/AGennadyAndACardGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/B. Petr and a Combination Lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/B. Petr and a Combination Lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/BPetrAndACombinationLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.04 - Hello 2019/BPetrAndACombinationLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/A. Integer Sequence Dividing.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/A. Integer Sequence Dividing.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/AIntegerSequenceDividing.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/AIntegerSequenceDividing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/B. Array K-Coloring.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/B. Array K-Coloring.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/C. Doors Breaking and Repairing.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/unsorted/2019.01/2019.01.11 - Codeforces Round #531 (Div. 3)/C. Doors Breaking and Repairing.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/A. Snowball.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/A. Snowball.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/A. Two distinct points.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/A. Two distinct points.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/ASnowball.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/ASnowball.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/ATwoDistinctPoints.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/ATwoDistinctPoints.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/B - Bear and Tree Jumps.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/B - Bear and Tree Jumps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/B. Array K-Coloring.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/B. Array K-Coloring.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/B. Divisors of Two Integers.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/B. Divisors of Two Integers.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/B. Valera and Fruits.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/B. Valera and Fruits.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/BArrayKColoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/BArrayKColoring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/BDivisorsOfTwoIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/BDivisorsOfTwoIntegers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/BValeraAndFruits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/BValeraAndFruits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/C - Bear and Company.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/C - Bear and Company.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/C. Good Array.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/C. Good Array.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/C. Nice Garland.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/C. Nice Garland.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/C. Yuhao and a Parenthesis.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/C. Yuhao and a Parenthesis.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/A. Circle of Students.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/A. Circle of Students.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/CGoodArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/CGoodArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/CNiceGarland.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/CNiceGarland.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/CYuhaoAndAParenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/CYuhaoAndAParenthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Container.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Container.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/D - Bear and Rectangle Strips.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/D - Bear and Rectangle Strips.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/D. Balanced Ternary String.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/D. Balanced Ternary String.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/DBalancedTernaryString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/DBalancedTernaryString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/DecodeString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/DecodeString.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/DecodeString.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/DominoPieace$Domino.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/DominoPieace$Domino.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/DominoPieace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/DominoPieace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/DominoPieace.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/DominoPieace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/E - Bear and Isomorphic Points.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/E - Bear and Isomorphic Points.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/E. Monotonic Renumeration.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/E. Monotonic Renumeration.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/EMonotonicRenumeration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/EMonotonicRenumeration.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/F. Elongated Matrix.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/F. Elongated Matrix.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/FElongatedMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/FElongatedMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/LeaderBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/LeaderBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueensTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/NQueensTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/StudentComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/StudentComparator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Task.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/Task.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/Task.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskCodility.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskCodility.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskCodility.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskCodility.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskOddArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskOddArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskOddArray.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskOddArray.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskURi1523.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskURi1523.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskUri15$Schedule.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskUri15$Schedule.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskUri15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskUri15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskUri15.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TaskUri15.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/TestMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/TestMaker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/URI1523.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/URI1523.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/URI1523.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/codes/permuteUnique.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/codes/permuteUnique.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/TestLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/dataStructures/TestLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/Price.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/Price.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/IkmTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/IkmTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/PersonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/examples/questions/PersonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_01/Lambdas_01_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_01/Lambdas_01_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_02/Lambdas_01_02$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_02/Lambdas_01_02$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_02/Lambdas_01_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_02/Lambdas_01_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_03/Lambdas_01_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_03/Lambdas_01_03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_04/Lambdas_01_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_01_04/Lambdas_01_04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Lambdas_02_01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Lambdas_02_01$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Lambdas_02_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_01/Lambdas_02_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_02/Lambdas_02_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_02/Lambdas_02_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_03/Lambdas_02_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/lambdas_02_03/Lambdas_02_03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChelperTest/support/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChelperTest/support/MyLinkedList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codes/A. Circle of Students.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/A. Circle of Students.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/A. Snowball.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/A. Snowball.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/A. Two distinct points.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/A. Two distinct points.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/Allsubsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Allsubsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/Allsubsets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Allsubsets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/Anagram.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Anagram.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/B - Bear and Tree Jumps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/B - Bear and Tree Jumps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/B. Array K-Coloring.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/B. Array K-Coloring.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/B. Divisors of Two Integers.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/B. Divisors of Two Integers.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/B. Valera and Fruits.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/B. Valera and Fruits.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/BArrayKColoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/BArrayKColoring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/BValeraAndFruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/BValeraAndFruits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/C - Bear and Company.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/C - Bear and Company.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/C. Good Array.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/C. Good Array.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/C. Nice Garland.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/C. Nice Garland.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/C. Yuhao and a Parenthesis.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/C. Yuhao and a Parenthesis.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/CGoodArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/CGoodArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/CYuhaoAndAParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/CYuhaoAndAParenthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/CoinChange.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/CoinChange.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codes/D - Bear and Rectangle Strips.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/D - Bear and Rectangle Strips.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/D. Balanced Ternary String.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/D. Balanced Ternary String.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/DecodeString.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/DecodeString.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/DifferenceDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/DifferenceDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/DifferenceDate.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/DifferenceDate.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/DominoPieace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/DominoPieace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/DominoPieace.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/DominoPieace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/E - Bear and Isomorphic Points.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/E - Bear and Isomorphic Points.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/E. Monotonic Renumeration.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/E. Monotonic Renumeration.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/F. Elongated Matrix.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/F. Elongated Matrix.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/InsertedSorted.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/InsertedSorted.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/IsPalindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/IsPalindrom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/IsPalindrom.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/IsPalindrom.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/LeaderBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/LeaderBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/LeaderBoard.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/LeaderBoard.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/MergeSort.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/MergeSort.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/NQueens.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/NQueens.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/NQueensTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/NQueensTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/NQueensTest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/NQueensTest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/OuterMostParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/OuterMostParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/OuterMostParentheses.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/OuterMostParentheses.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/PermutateString.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/PermutateString.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/RollDice.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/RollDice.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/RollsDices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/RollsDices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/RollsDices.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/RollsDices.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/StockProblem.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/StockProblem.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Strings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codes/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/Task.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Task.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/TaskCodility.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/TaskCodility.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/TaskOddArray.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/TaskOddArray.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/TaskURi1523.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/TaskURi1523.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/TaskUri15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/TaskUri15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/TaskUri15.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/TaskUri15.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/TestMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/TestMaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/URI1523.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/URI1523.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/nQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/nQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/nQueens.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/nQueens.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/permuteUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/permuteUnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/permuteUnique.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/permuteUnique.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataStructures/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/DoublyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataStructures/TestLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/TestLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs435/assignment1/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs435/assignment1/Knapsack.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,48 +76,73 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-1.8.0_382/src.zip!/java/lang/ClassLoader.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-1.8.0_382/src.zip!/java/net/URLClassLoader.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="1Oq2AfTLgCd9QJI01wPqCpPPeiv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550464017411" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/cs435/assignment2" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainClass.executor": "Run",
+    "Task.A - Problem Generator.executor": "Debug",
+    "Task.A. Circle of Students.executor": "Run",
+    "Task.DumbellTask.executor": "Debug",
+    "Task.Leetcode122BestTime.executor": "Run",
+    "Task.LongestSubstring.executor": "Run",
+    "Task.MaxSubArrayValue.executor": "Run",
+    "Task.Task1.executor": "Run",
+    "Task.Task2696.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/emmanuell/Pictures/Screenshot_2024-08-20_16-39-17.png",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="dataStructures" />
-    </key>
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="examples" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/cs435/assignment2" />
       <recent name="$PROJECT_DIR$/src/support" />
       <recent name="$PROJECT_DIR$/src/examples" />
       <recent name="$PROJECT_DIR$/src/codes" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="examples" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dataStructures" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -233,19 +150,7 @@
       <command value="java" />
     </option>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Task.Knapsack">
+  <component name="RunManager" selected="Task.LongestSubstring">
     <configuration name="IkmTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="examples.questions.IkmTest" />
       <module name="ChelperTest" />
@@ -272,13 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="examples.questions.Main" />
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructures.LinkedList.MainClass" />
       <module name="ChelperTest" />
-      <option name="PROGRAM_PARAMETERS" value="Test null Test 1 2 3 test " />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="examples.questions.*" />
+          <option name="PATTERN" value="dataStructures.LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,9 +216,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="A - Problem Generator" type="Task" factoryName="Task">
+      <taskConf>src/codes/A - Problem Generator.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
     <configuration name="A. Circle of Students" type="Task" factoryName="Task">
       <taskConf>src/codes/A. Circle of Students.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -343,6 +274,30 @@
     <configuration name="A. Two distinct points" type="Task" factoryName="Task">
       <taskConf>src/codes/A. Two distinct points.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -451,6 +406,30 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Anagram" type="Task" factoryName="Task">
@@ -488,11 +467,59 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="B - Bear and Tree Jumps" type="Task" factoryName="Task">
       <taskConf>src/codes/B - Bear and Tree Jumps.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -647,11 +674,59 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="B. Divisors of Two Integers" type="Task" factoryName="Task">
       <taskConf>src/codes/B. Divisors of Two Integers.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -795,11 +870,59 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="C. Nice Garland" type="Task" factoryName="Task">
       <taskConf>src/codes/C. Nice Garland.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -938,6 +1061,30 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="CoinChange" type="Task" factoryName="Task">
@@ -969,11 +1116,59 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="D - Bear and Rectangle Strips" type="Task" factoryName="Task">
       <taskConf>src/codes/D - Bear and Rectangle Strips.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1128,11 +1323,59 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="DecodeString" type="Task" factoryName="Task">
       <taskConf>src/codes/DecodeString.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1232,6 +1475,30 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="DominoPieace" type="Task" factoryName="Task">
@@ -1286,11 +1553,70 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="DumbellTask" type="Task" factoryName="Task">
+      <taskConf>src/hackerrank/DumbellTask.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="E - Bear and Isomorphic Points" type="Task" factoryName="Task">
       <taskConf>src/codes/E - Bear and Isomorphic Points.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1445,11 +1771,59 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="F. Elongated Matrix" type="Task" factoryName="Task">
       <taskConf>src/codes/F. Elongated Matrix.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1560,6 +1934,30 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="IsPalindrom" type="Task" factoryName="Task">
@@ -1583,11 +1981,59 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Knapsack" type="Task" factoryName="Task">
       <taskConf>src/cs435/assignment1/Knapsack.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1629,6 +2075,74 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode122BestTime" type="Task" factoryName="Task">
+      <taskConf>src/leetcode/Leetcode122BestTime.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="LongestSubstring" type="Task" factoryName="Task">
+      <taskConf>src/leetcode/longestSubstringWithoutRepeatingCharacters/LongestSubstring.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="MaxSubArrayValue" type="Task" factoryName="Task">
+      <taskConf>src/hackerrank/MaxSubArrayValue.json</taskConf>
+      <method v="2">
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1679,11 +2193,59 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="NQueens" type="Task" factoryName="Task">
       <taskConf>src/codes/NQueens.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1778,11 +2340,59 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="OuterMostParentheses" type="Task" factoryName="Task">
       <taskConf>src/codes/OuterMostParentheses.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1874,11 +2484,59 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="RollDice" type="Task" factoryName="Task">
       <taskConf>src/codes/RollDice.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -1952,11 +2610,59 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="StockProblem" type="Task" factoryName="Task">
       <taskConf>src/codes/StockProblem.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -2017,6 +2723,30 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Task" type="Task" factoryName="Task">
@@ -2045,11 +2775,107 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Task" factoryName="Task">
+      <taskConf>src/codes/Task1.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Task2696" type="Task" factoryName="Task">
+      <taskConf>src/codes/Task2696.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="TaskCodility" type="Task" factoryName="Task">
       <taskConf>src/codes/TaskCodility.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -2166,11 +2992,59 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="TaskURi1523" type="Task" factoryName="Task">
       <taskConf>src/codes/TaskURi1523.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -2290,11 +3164,59 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="nQueens" type="Task" factoryName="Task">
       <taskConf>src/codes/nQueens.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -2386,64 +3308,104 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MainClass" />
       <item itemvalue="Application.IkmTest" />
       <item itemvalue="Application.JavaClass" />
       <item itemvalue="Application.PersonTest" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Task.LongestSubstring" />
+      <item itemvalue="Task.DumbellTask" />
+      <item itemvalue="Task.MaxSubArrayValue" />
+      <item itemvalue="Task.Task1" />
+      <item itemvalue="Task.A - Problem Generator" />
+      <item itemvalue="Task.Task2696" />
+      <item itemvalue="Task.Leetcode122BestTime" />
+      <item itemvalue="Task.A. Circle of Students" />
       <item itemvalue="Task.A. Two distinct points" />
+      <item itemvalue="Task.Allsubsets" />
+      <item itemvalue="Task.Anagram" />
+      <item itemvalue="Task.B - Bear and Tree Jumps" />
       <item itemvalue="Task.B. Array K-Coloring" />
       <item itemvalue="Task.B. Divisors of Two Integers" />
-      <item itemvalue="Task.B - Bear and Tree Jumps" />
+      <item itemvalue="Task.C - Bear and Company" />
       <item itemvalue="Task.C. Nice Garland" />
       <item itemvalue="Task.C. Powers Of Two" />
-      <item itemvalue="Task.C - Bear and Company" />
-      <item itemvalue="Task.D. Balanced Ternary String" />
-      <item itemvalue="Task.D - Bear and Rectangle Strips" />
-      <item itemvalue="Task.E. Monotonic Renumeration" />
-      <item itemvalue="Task.E - Bear and Isomorphic Points" />
-      <item itemvalue="Task.F. Elongated Matrix" />
-      <item itemvalue="Task.TaskCodility" />
-      <item itemvalue="Task.TaskOddArray" />
-      <item itemvalue="Task.TaskUri15" />
-      <item itemvalue="Task.TaskURi1523" />
-      <item itemvalue="Task.DecodeString" />
-      <item itemvalue="Task.DominoPieace" />
-      <item itemvalue="Task.NQueens" />
-      <item itemvalue="Task.OuterMostParentheses" />
-      <item itemvalue="Task.nQueens" />
-      <item itemvalue="Task.Allsubsets" />
-      <item itemvalue="Task.NQueensTest" />
-      <item itemvalue="Task.DifferenceDate" />
-      <item itemvalue="Task.RollDice" />
-      <item itemvalue="Task.PermutateString" />
-      <item itemvalue="Task.permuteUnique" />
-      <item itemvalue="Task.MergeSort" />
-      <item itemvalue="Task.InsertedSorted" />
-      <item itemvalue="Task.Strings" />
-      <item itemvalue="Task.Anagram" />
-      <item itemvalue="Task.LeaderBoard" />
-      <item itemvalue="Task.RollsDices" />
       <item itemvalue="Task.CoinChange" />
-      <item itemvalue="Task.StockProblem" />
-      <item itemvalue="Task.Task" />
-      <item itemvalue="Task.A. Circle of Students" />
+      <item itemvalue="Task.D - Bear and Rectangle Strips" />
+      <item itemvalue="Task.D. Balanced Ternary String" />
+      <item itemvalue="Task.DecodeString" />
+      <item itemvalue="Task.DifferenceDate" />
+      <item itemvalue="Task.DominoPieace" />
+      <item itemvalue="Task.E - Bear and Isomorphic Points" />
+      <item itemvalue="Task.E. Monotonic Renumeration" />
+      <item itemvalue="Task.F. Elongated Matrix" />
+      <item itemvalue="Task.InsertedSorted" />
       <item itemvalue="Task.IsPalindrom" />
       <item itemvalue="Task.Knapsack" />
+      <item itemvalue="Task.LeaderBoard" />
+      <item itemvalue="Task.MergeSort" />
+      <item itemvalue="Task.NQueens" />
+      <item itemvalue="Task.NQueensTest" />
+      <item itemvalue="Task.OuterMostParentheses" />
+      <item itemvalue="Task.PermutateString" />
+      <item itemvalue="Task.RollDice" />
+      <item itemvalue="Task.RollsDices" />
+      <item itemvalue="Task.StockProblem" />
+      <item itemvalue="Task.Strings" />
+      <item itemvalue="Task.Task" />
+      <item itemvalue="Task.TaskCodility" />
+      <item itemvalue="Task.TaskOddArray" />
+      <item itemvalue="Task.TaskURi1523" />
+      <item itemvalue="Task.TaskUri15" />
+      <item itemvalue="Task.nQueens" />
+      <item itemvalue="Task.permuteUnique" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.IkmTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.PersonTest" />
         <item itemvalue="Application.JavaClass" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -2527,6 +3489,27 @@
       <workItem from="1572636059700" duration="2486000" />
       <workItem from="1572743197287" duration="428000" />
       <workItem from="1572805401073" duration="2134000" />
+      <workItem from="1712770062187" duration="42000" />
+      <workItem from="1712770124435" duration="1140000" />
+      <workItem from="1713196823973" duration="12483000" />
+      <workItem from="1717443265761" duration="1361000" />
+      <workItem from="1717458010128" duration="3674000" />
+      <workItem from="1717503194807" duration="15956000" />
+      <workItem from="1717595548753" duration="44000" />
+      <workItem from="1717595605234" duration="760000" />
+      <workItem from="1717602615451" duration="9517000" />
+      <workItem from="1717621131794" duration="15611000" />
+      <workItem from="1717702285053" duration="806000" />
+      <workItem from="1717758998879" duration="1214000" />
+      <workItem from="1717869897772" duration="5586000" />
+      <workItem from="1718200066329" duration="3218000" />
+      <workItem from="1721838615167" duration="5190000" />
+      <workItem from="1724168378046" duration="10675000" />
+      <workItem from="1724243356344" duration="2851000" />
+      <workItem from="1724259249892" duration="1679000" />
+      <workItem from="1724285160166" duration="3027000" />
+      <workItem from="1724331653346" duration="2559000" />
+      <workItem from="1724530763228" duration="2789000" />
     </task>
     <task id="LOCAL-00001" summary="solving some problems">
       <created>1549434585228</created>
@@ -2560,16 +3543,14 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -2627,7 +3608,23 @@
           <line>52</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="33" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Task">
+        <watch expression="map.getOrDefault('B', 0)" language="JAVA" />
+        <watch expression="c" language="JAVA" />
+        <watch expression="map.toString()" language="JAVA" />
+        <watch expression="ans" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

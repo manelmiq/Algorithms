@@ -19,7 +19,6 @@ public class Task {
         int maxDay = 0;
         for (int i = 0; i < prices.length; i++) {
             if (prices[i] < min) {
-                // max = Math.max(prices[maxDay] - prices[i], max);
                 min = prices[i];
                 minDay = i;
                 continue;
