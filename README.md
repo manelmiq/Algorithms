@@ -10,6 +10,7 @@ LeetCode: https://leetcode.com/u/emmanuellmiqueletti/
 
 <br>
 
-| Problem                                           | Solution | 
-|---------------------------------------------------|----------|
+| Problem                                                                                                                        | Solution                                                                                                                                 | 
+|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | [Longest Substring without repeating character](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [code](https://github.com/manelmiq/Algorithms/blob/master/src/leetcode/longestSubstringWithoutRepeatingCharacters/LongestSubstring.java) |
+| [Work Break](https://leetcode.com/problems/word-break-ii/)                                    | [code](https://github.com/manelmiq/Algorithms/blob/master/src/leetcode/workbreak2/WordBreak.java)                                                                              |

@@ -1,3 +1,3 @@
-77 src/leetcode/longestSubstringWithoutRepeatingCharacters/LongestSubstring.json
+60 src/leetcode/longestPalindromSubstring/LongestPalindrom.json
 1
-0
+1
