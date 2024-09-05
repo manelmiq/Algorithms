@@ -1,3 +1,3 @@
-60 src/leetcode/longestPalindromSubstring/LongestPalindrom.json
+27 src/leetcode/_472/_472.json
 1
-1
+0
